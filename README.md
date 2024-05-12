@@ -32,3 +32,5 @@ This command will launch the project on your local server, typically accessible 
 
 UI (User Interface)
 
+1) Upload File UI
+   <img width="1440" alt="Screenshot 2024-05-12 at 6 35 13 AM" src="https://github.com/akhilza/Image-Upload/assets/117937740/643f58ef-b4af-491d-94d0-523339ed489a">
