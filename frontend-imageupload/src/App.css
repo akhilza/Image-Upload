@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.col-img{
+   border: 1px solid gray;
+   margin-left: 5px !important;
+   margin-right: 5px !important;
+}
+
+.row-img{
+  margin-top: 5%;
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+
+}
