@@ -9,6 +9,8 @@ ReactJS
 MongoDB
 NodeJS
 AWS + S3
+
+
 Getting Started
 Follow these steps to set up the project on your preferred Integrated Development Environment (IDE):
 
@@ -20,15 +22,12 @@ Open the downloaded project in your favorite IDE.
 
 Step 3: Install Dependencies
 Open the terminal within your IDE and execute the following command to install the necessary dependencies:
-
-Copy code
 npm install
+
 Step 4: Start the Project
 Once the installation is complete, you can start the project by running:
-
-sql
-Copy code
 npm start
+
 This command will launch the project on your local server, typically accessible via http://localhost:3000 in your web browser.
 
 UI (User Interface)
