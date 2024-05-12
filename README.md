@@ -46,3 +46,8 @@ UI (User Interface)
 
 <img width="1440" alt="Screenshot 2024-05-12 at 6 35 55 AM" src="https://github.com/akhilza/Image-Upload/assets/117937740/70f59937-1a12-4ba2-8f12-ac69d7f4ec65">
 
+4) Store The Database
+
+<img width="1440" alt="Screenshot 2024-05-12 at 6 36 09 AM" src="https://github.com/akhilza/Image-Upload/assets/117937740/9a94edf7-feae-4a1c-8040-2b8c60d29a0a">
+
+
