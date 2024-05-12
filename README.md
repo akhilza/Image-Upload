@@ -43,3 +43,6 @@ UI (User Interface)
 3) Showing the Upload file 
 
 <img width="1440" alt="Screenshot 2024-05-12 at 6 35 36 AM" src="https://github.com/akhilza/Image-Upload/assets/117937740/931a7fb8-631d-4bd0-be68-30dbb72df464">
+
+<img width="1440" alt="Screenshot 2024-05-12 at 6 35 55 AM" src="https://github.com/akhilza/Image-Upload/assets/117937740/70f59937-1a12-4ba2-8f12-ac69d7f4ec65">
+
